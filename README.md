@@ -1,4 +1,7 @@
 *********Bank Statement Aggregation*********
 
-The attached Jupyter notebook consists of all the required information like working, exceptions, outputs etc., of the prototype.
-Please go through it.
+Greetings!
+The attached Jupyter notebook consists of the required information about the prototype like working, exceptions, outputs etc. 
+Thank you,
+Shimul and Vamsi 
+
